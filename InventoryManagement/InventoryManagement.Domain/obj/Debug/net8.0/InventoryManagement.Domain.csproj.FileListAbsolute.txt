@@ -1,0 +1,23 @@
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.deps.json
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfo.cs
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\refint\InventoryManagement.Domain.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\ref\InventoryManagement.Domain.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.deps.json
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\refint\InventoryManagement.Domain.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\ref\InventoryManagement.Domain.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.domain\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.domain\\mappings\\productmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\mappings\\productmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C41C71D-0137-48BF-82B5-6A637522C7AF}|InventoryManagement.Services\\InventoryManagement.Services.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C41C71D-0137-48BF-82B5-6A637522C7AF}|InventoryManagement.Services\\InventoryManagement.Services.csproj|solutionrelative:inventorymanagement.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED474AEF-401E-4876-8933-95E6977A4304}|InventoryManagement.Api\\InventoryManagement.Api.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED474AEF-401E-4876-8933-95E6977A4304}|InventoryManagement.Api\\InventoryManagement.Api.csproj|solutionrelative:inventorymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6A1DA9-D5DC-49D0-9318-82DA01470B1A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.infrastructure\\inventorymanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA6A1DA9-D5DC-49D0-9318-82DA01470B1A}|InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|solutionrelative:inventorymanagement.infrastructure\\inventorymanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.domain\\dtos\\product\\productforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\dtos\\product\\productforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.domain\\dtos\\product\\productforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\dtos\\product\\productforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED474AEF-401E-4876-8933-95E6977A4304}|InventoryManagement.Api\\InventoryManagement.Api.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED474AEF-401E-4876-8933-95E6977A4304}|InventoryManagement.Api\\InventoryManagement.Api.csproj|solutionrelative:inventorymanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\muhammad\\desktop\\c#_modul\\modul-08\\inventorymanagementjavlon\\inventorymanagement\\inventorymanagement.domain\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F262C7-FFD1-4A3C-B905-A13645F9FFF0}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj",
+              "RelativeToolTip": "InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T16:24:52.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductMappings.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\Mappings\\ProductMappings.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\Mappings\\ProductMappings.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\Mappings\\ProductMappings.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\Mappings\\ProductMappings.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:20:57.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\DTOs\\Product\\ProductForUpdateDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\DTOs\\Product\\ProductForUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\DTOs\\Product\\ProductForUpdateDto.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\DTOs\\Product\\ProductForUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:07:15.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductForCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\DTOs\\Product\\ProductForCreateDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\DTOs\\Product\\ProductForCreateDto.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\DTOs\\Product\\ProductForCreateDto.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\DTOs\\Product\\ProductForCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:57:55.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Api\\Program.cs",
+              "RelativeToolTip": "InventoryManagement.Api\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:32:23.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\DTOs\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\DTOs\\Product\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\DTOs\\Product\\ProductDto.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\DTOs\\Product\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:50:25.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:49:22.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Services\\ProductService.cs",
+              "RelativeToolTip": "InventoryManagement.Services\\ProductService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:34:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "InventoryManagement.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAArwDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:36:48.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\Interfaces\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\Interfaces\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\Interfaces\\Services\\IProductService.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\Interfaces\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:56:28.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

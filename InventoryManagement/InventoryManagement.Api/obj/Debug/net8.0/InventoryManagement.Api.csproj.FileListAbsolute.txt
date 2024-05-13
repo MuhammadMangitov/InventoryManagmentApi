@@ -1,0 +1,283 @@
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.exe
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.deps.json
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.runtimeconfig.json
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.pdb
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.csproj.AssemblyReference.cache
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.AssemblyInfoInputs.cache
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.AssemblyInfo.cs
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.csproj.CoreCompileInputs.cache
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.InventoryManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryManagement.Api.props
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagement.Api.props
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryManagement.Api.props
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\scopedcss\bundle\InventoryManagement.Api.styles.css
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\Inventor.9EE68E9E.Up2Date
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\refint\InventoryManagement.Api.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.pdb
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.genruntimeconfig.cache
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\ref\InventoryManagement.Api.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Humanizer.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Domain.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Infrastructure.dll
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Infrastructure.pdb
+C:\JAVLON ALIMOV\C#\Module08\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.exe
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.deps.json
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.runtimeconfig.json
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Api.pdb
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Domain.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Infrastructure.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Infrastructure.pdb
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.csproj.AssemblyReference.cache
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.InventoryManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryManagement.Api.props
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagement.Api.props
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryManagement.Api.props
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\scopedcss\bundle\InventoryManagement.Api.styles.css
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\Inventor.9EE68E9E.Up2Date
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\refint\InventoryManagement.Api.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.pdb
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\InventoryManagement.Api.genruntimeconfig.cache
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\obj\Debug\net8.0\ref\InventoryManagement.Api.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Services.dll
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\InventoryManagement.Services.pdb
+C:\Users\Muhammad\Desktop\c#_modul\modul-08\InventoryManagementJavlon\InventoryManagement\InventoryManagement.Api\bin\Debug\net8.0\AutoMapper.dll
