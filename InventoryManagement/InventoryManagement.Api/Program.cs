@@ -15,7 +15,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICategoryService, CategoryServise>();
 builder.Services.AddAutoMapper(typeof(ProductMappings).Assembly);
+builder.Services.AddAutoMapper(typeof(CategoryMappings).Assembly);
 
 var app = builder.Build();
 

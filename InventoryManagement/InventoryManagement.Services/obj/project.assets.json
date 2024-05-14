@@ -2822,11 +2822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Services\\InventoryManagement.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Services\\InventoryManagement.Services.csproj",
       "projectName": "InventoryManagement.Services",
-      "projectPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Services\\InventoryManagement.Services.csproj",
+      "projectPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Services\\InventoryManagement.Services.csproj",
       "packagesPath": "C:\\Users\\Muhammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Services\\obj\\",
+      "outputPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2843,8 +2843,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj"
+            "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj"
             }
           }
         }

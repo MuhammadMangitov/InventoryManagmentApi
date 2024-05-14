@@ -1,6 +1,4 @@
 ﻿using InventoryManagement.Domain.DTOs.Product;
-using InventoryManagement.Domain.Entities;
-
 namespace InventoryManagement.Domain.Interfaces.Services;
 
 public interface IProductService

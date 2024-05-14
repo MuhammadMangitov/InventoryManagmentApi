@@ -62,10 +62,10 @@ public class ProductService : IProductService
     {
         var product = _context.Products.FirstOrDefault(x => x.Id == id);
 
-        //if (product is not null)
-        //{
-        //    _context.Products.Remove(product);
-        //}
+        if (product is not null)
+        {
+            _context.Products.Remove(product);
+        }
 
         _context.SaveChanges();
     }

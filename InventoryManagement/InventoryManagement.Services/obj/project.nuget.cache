@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cefcPSGz1FRqfiab2Mudb8Bb1WNDm7EaXx+6wD7XEs8MgWQo+JKhCOs/pwwFaZot5aPVdhYcBwaegh02bz8QTg==",
+  "dgSpecHash": "hic6OVs+PsSKdmMwTqPOVe+7ob6UhE2ZG3dFz5CjvXc13cyNfSebneIrqIJF7SNCMQRQGHrNDBjJcg0vbxbY/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Services\\InventoryManagement.Services.csproj",
+  "projectFilePath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Services\\InventoryManagement.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammad\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Muhammad\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

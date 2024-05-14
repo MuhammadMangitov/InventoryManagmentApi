@@ -53,6 +53,7 @@ public class ProductsController : ControllerBase
             return BadRequest($"Route id: {id} does not match with product id: {product.Id}");
         }
 
+
         _productService.Update(product);
 
         return NoContent();

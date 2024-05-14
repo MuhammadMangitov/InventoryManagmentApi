@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VD3nOqkOr9GlcbQxVs1ecTthvEZLv9y8vD146qmoF7b4hXW6fotPDWwo97JP5yJ5v6rqmvMooNhO0Aw2LCKIKA==",
+  "dgSpecHash": "Xntg1aN+MnVn1LFXejfYWI//gbfEsStwBgX5QOwg8oML4tpzgo0Lyv9d7f7nNNn8qA/wPLyLtnKFfPyFXRAzfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammad\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Muhammad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

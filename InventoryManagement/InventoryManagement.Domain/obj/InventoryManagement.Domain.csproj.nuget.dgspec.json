@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {}
+    "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
+    "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
         "projectName": "InventoryManagement.Domain",
-        "projectPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Muhammad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\modul-08\\InventoryManagementJavlon\\InventoryManagement\\InventoryManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Muhammad\\Desktop\\c#_modul\\github\\InventoryManagmentApi\\InventoryManagement\\InventoryManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
